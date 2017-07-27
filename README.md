@@ -1,3 +1,6 @@
+## 由于shadowsocksr-android项目突然被删，这个repo变成了备份repo
+## 请fork的同学以3b06c0018bbcfeb1146d34341c930c0865916c03的commit为准，后来的commit是Milkice自定义的一些改动，谢谢
+
 ## ShadowsocksR for Android
 
 A [shadowsocksR](https://github.com/breakwa11/shadowsocks-rss/) client for Android, written in Scala.
